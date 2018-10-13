@@ -57,3 +57,11 @@ con "ethereumConnection.helper" para la conexión mediante **web3** a Ethereum.
 Para cada nuevo método definido en el controlador añadir en el editor de Swagger la definición de la ruta correspondiente.
 
 Los cambios se actualizan automáticamente, no es necesario levantar de nuevo el proyecto para poder probarlos.
+
+# Course Notes
+
+`docker-compose build`
+
+`docker-compose up` Monta el contrato
+
+`cd node && swagger project edit` Para pobrar la funcionalidad una vez el contenedor esté arriba
